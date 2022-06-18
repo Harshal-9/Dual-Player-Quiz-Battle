@@ -1,0 +1,27 @@
+
+			 PLAYER_1	PLAYER_2	WINNER
+
+			 harshal	nikhil		harshal
+
+			 nikhil		harshal		nikhil
+
+			 rutikesh	akshay		akshay 	
+		 
+			 tim		John		tim 
+
+			 arjun		harshal 	arjun  
+ 
+
+			 ram		shyam		ram 
+
+			 amit		hari		amit 
+
+			 rahul		amit		rahul 
+
+			 shyam		ram		shyam 
+
+			 ww		ss		ww 
+
+			 Shreyash		Rutikesh		Shreyash 
+
+			 B		A		B
